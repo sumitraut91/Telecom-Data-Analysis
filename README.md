@@ -1,9 +1,9 @@
-# Telecom data Analysis
+# Telecom Data Analysis
  Performed Exploration data analysis on Telecom data
 
 Tasks Done
 
-Task 1 User Overview analysis
+Task 1 User Overview Analysis
 
 
 1.1 data exploration
