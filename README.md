@@ -37,6 +37,7 @@ Task 2 Use Engagement Analysis
 Task 3 - Experience Analytics
 
 3.1 - Aggregate, per customer, the following information:
+
 • Average TCP retransmission
 
 • Average RTT
