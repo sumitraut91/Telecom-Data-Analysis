@@ -47,11 +47,27 @@ Task 3 - Experience Analytics
 • Average throughput
 
 
-3.2 - Compute & list 10 of the top, bottom and most frequent
+3.2 - Compute & list 10 of the top, bottom, and most frequent
 
 3.3 - Compute & report experience metrics
 
 3.4 k-means clustering
 
-Prediction.
+Task 4 - Satisfaction Analytics
+
+Task 4.1 
+• Engagement score for each user
+• Experience score for each user
+
+Task 4.2 Average of both engagement & experience scores as the satisfaction score
+
+ • Report the top 10 satisfied customer
+
+ Task 4.3 - Build a regression model
+ 
+ Task 4.4 - Run a k-means (k=2) on the engagement & the experience score
+
+ Task 4.5 - Aggregate the average satisfaction & experience score per cluster
+
+ Task 4.6 Export the final table in local MySQL and Report a screenshot of a select query output
 
