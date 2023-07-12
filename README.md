@@ -65,9 +65,9 @@ Task 4.2 Average of both engagement & experience scores as the satisfaction scor
 
  Task 4.3 - Build a regression model
  
- Task 4.4 - Run a k-means (k=2) on the engagement & the experience score
+ Task 4.4 - Run a k-means (k=2) on the engagement & the experience score.
 
- Task 4.5 - Aggregate the average satisfaction & experience score per cluster
+ Task 4.5 - Aggregate the average satisfaction & experience score per cluster.
 
- Task 4.6 Export the final table in local MySQL and Report a screenshot of a select query output
+ Task 4.6 - Export the final table in local MySQL and Report a screenshot of a select query output.
 
